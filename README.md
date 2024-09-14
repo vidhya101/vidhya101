@@ -1,5 +1,5 @@
 # 💫 About Me:
-6+ years of experience as a qualified DevOps Professional with expertise in Build, Release, Deployment, and Software Configuration Management. Skilled in CI/CD processes, cloud technologies, automation, and container orchestration. Demonstrated success in managing cloud infrastructures, deploying applications, and providing 24x7 production support. Proficient in AWS, Jenkins, Docker, Kubernetes, Ansible, and Terraform.<br><br>
+6+ years of experience as a qualified DevOps professional with expertise in Build, Release, Deployment, and Software Configuration Management. Skilled in CI/CD processes, cloud technologies, automation, and container orchestration. Demonstrated success in managing cloud infrastructures, deploying applications, and providing 24x7 production support. Proficient in AWS, Jenkins, Docker, Kubernetes, Ansible, and Terraform.<br><br>
 
 
 ## 🌐 Socials:
