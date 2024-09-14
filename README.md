@@ -15,6 +15,20 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vidhya101&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+🚀 Projects:
+🌐 Multi-Cloud Deployment
+Implemented a multi-cloud deployment strategy using AWS and Azure, reducing deployment time by 50%.
+Automated infrastructure provisioning with Terraform and Ansible for seamless deployment.
+📦 Microservices Architecture
+Designed and implemented a microservices architecture using Docker and Kubernetes, improving system scalability and flexibility.
+Managed CI/CD pipelines with Jenkins and deployed monitoring solutions using Prometheus and Grafana.
+🔐 Security Automation
+Developed automated security compliance checks using AWS Config and Lambda, ensuring security at all stages.
+Decreased vulnerabilities by 30% through regular security audits and automating security processes.
+🔄 Data Pipeline Automation
+Created an automated data pipeline using AWS Glue and Lambda, integrating with Amazon Redshift.
+Achieved a 35% reduction in data processing times by optimizing the pipeline architecture.
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
